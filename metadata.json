@@ -1,0 +1,8 @@
+{
+  "name": "HyperWeb OS",
+  "description": "A fully functional web-based mobile OS simulation inspired by Xiaomi HyperOS, featuring Gemini AI integration, real camera support, and system utilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
